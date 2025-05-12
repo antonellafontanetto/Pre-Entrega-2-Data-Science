@@ -58,25 +58,20 @@ https://www.lanacion.com.ar/el-potencial-exportador-vaca-muerta-el-planparaalcan
 
 # Estructura del repositorio
 
-Hacer una breve lista de los principales archivos y carpetas del proyecto, por ejemplo: notebooks de limpieza, análisis exploratorio, modelado, carpeta de datasets, etc.
-
 La estructura del repositorio está compuesta por diferentes archivos, los cuales fueron necesarios para el desarrollo del proyecto. 
 Los mismos son:
-La carpeta contiene los 3 datasets: la producción de pozos de petróleo y gas, perforación de pozos de petróleo y gas, y los datos de fractura de pozos de hidrocarburo. Cada dataset contiene información global de todas las cuencas que se encuentran en las diferentes provincias a nivel nacional.
+La carpeta contiene el dataset: la producción de pozos de petróleo y gas. Cada dataset contiene información global de todas las cuencas que se encuentran en las diferentes provincias a nivel nacional.
 
 Diferentes versiones de notebook con las que el equipo fue trabajando y programando en base a los recursos y la necesidad de cumplir con el objetivo principal. 
 Luego está conformada por la notebook principal donde está presentado en su primera fase el análisis exploratorio de los datos que analizamos en base a 3 dataset relacionados a la industria del Oil & Gas y el impacto de determinadas variables en la cuenca neuquina principalmente Vaca Muerta,apuntando al foco principal del proyecto 4x4 de YPF S.A.
 
-# El modelado del proyecto…
-
 📁 data/             → Datasets originales y procesados  
-📁 notebooks/        → Jupyter Notebooks con análisis exploratorio y modelos  
-📁 src/              → Scripts con funciones y clases  
+📁 notebooks/        → Jupyter Notebooks con análisis exploratorio y visualización  
 📄 README.md         → Este archivo  
 
 # Metodología
 
-La maetodología implementada en el proyecto está relacionada con la búsqueda minuciosa de la información relevante para el desarrollo de mismo en función de las respuestas a nuestro modelo predictivo en base a las variable analizada como la producción de petróleo y gas en Vaca Muerta por parte de YPF S.A. en estos últimos. años.
+La maetodología implementada en el proyecto está relacionada con la búsqueda minuciosa de la información relevante para el desarrollo de mismo en función de las respuestas a nuestro modelo predictivo en base a las variable analizada como la producción de petróleo y gas en Vaca Muerta por parte de YPF S.A. en estos últimos años.
 
 La metodología implementada abarcó las siguientes etapas:
 
@@ -95,12 +90,12 @@ Lenguaje: Python 3.10+
 
 Librerías:
 
-* Análisis: pandas
+Primera entrega
+
+* Análisis exploratorio de datos: Pandas
 
 * Visualización: matplotlib, seaborn, plotly
 
-* Modelado: scikit-learn, xgboost, tensorflow
-
-* Otros: jupyter, openpyxl, google colab
+* Otros: jupyter, openpyxl, google colab, GitHub
 
 
