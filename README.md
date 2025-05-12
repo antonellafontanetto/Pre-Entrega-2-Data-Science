@@ -44,9 +44,12 @@ Mapas y documentos complementarios:
 
 # Estructura del repositorio
 
-📁.
+📁
+
 ├── data/           # Datasets originales y procesados
+
 ├── notebooks/      # Notebooks con análisis exploratorio, limpieza y modelado
+
 ├── README.md       # Este archivo
 
 # Metodología
