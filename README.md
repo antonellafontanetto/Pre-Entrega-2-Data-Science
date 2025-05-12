@@ -44,11 +44,10 @@ Mapas y documentos complementarios:
 
 # Estructura del repositorio
 
-📁 Data/ → Dataset original 
-
-📁 notebooks/ → Jupyter Notebooks con análisis exploratorio y visualización
-
-📄 README.md → Este archivo
+📁.
+├── data/           # Datasets originales y procesados
+├── notebooks/      # Notebooks con análisis exploratorio, limpieza y modelado
+├── README.md       # Este archivo
 
 # Metodología
 
