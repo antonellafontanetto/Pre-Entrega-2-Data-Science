@@ -72,8 +72,8 @@ Librerías:
 
 Primera entrega
 
-* Análisis exploratorio de datos: Pandas
+* Análisis exploratorio de datos: Pandas, Geopandas, Shapely.geometry
 
-* Visualización: matplotlib, seaborn, plotly
+* Visualización: matplotlib, seaborn, plotly, contextily
 
 * Otros: jupyter, openpyxl, google colab, GitHub
